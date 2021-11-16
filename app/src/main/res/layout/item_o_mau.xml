@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.differentcolor.object.ImgCustom
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="1dp"
+        android:tint="#e91e63"
+        android:src="@drawable/tron"
+        android:id="@+id/imgOmau"
+
+        />
+
+
+</RelativeLayout>
